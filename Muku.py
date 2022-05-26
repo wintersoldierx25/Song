@@ -47,7 +47,7 @@ async def alive(client, mukund):
 
 START_TEXT = """
 ━━━━━━━━━━━━━━━━━━━━━━━━
-💥 𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙢 𝐀𝐋𝐈𝚵𝐍™ 𝐗 𝐌𝐔𝐒𝐈𝐂
+💥 𝙃𝙚𝙡𝙡𝙤, 𝙄 𝘼𝙢 Arrow MusicX25 🇮🇳
 𝘽𝙤𝙩 𝙁𝙤𝙧 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙂𝙧𝙤𝙪𝙥𝙨 𝘼𝙡𝙡𝙤𝙬𝙨 𝙔𝙤𝙪 𝙏𝙤 𝙋𝙡𝙖𝙮 𝙈𝙪𝙨𝙞𝙘 𝘼𝙣𝙙 𝙑𝙞𝙙𝙚𝙤𝙨 𝙊𝙣 𝙂𝙧𝙤𝙪𝙥𝙨 𝙏𝙝𝙧𝙤𝙪𝙜𝙝 𝙏𝙝𝙚 𝙉𝙚𝙬 𝙏𝙚𝙡𝙚𝙜𝙧𝙖𝙢 𝙑𝙞𝙙𝙚𝙤 𝘾𝙝𝙖𝙩𝙨...
 ━━━━━━━━━━━━━━━━━━━━━━━━
 """
@@ -59,14 +59,14 @@ START_BUTTONS = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton("𝐇𝚵𝐋𝐏 🔐", callback_data="cbcmds"),
-            InlineKeyboardButton("𝐑𝚵𝐏𝐎 ✨", url="https://github.com/Legend-Mukund/Song")
+            InlineKeyboardButton("𝐑𝚵𝐏𝐎 ✨", url="https://github.com/wintersoldierx25/Song")
         ],
         [
-            InlineKeyboardButton("🚩𝐒𝐔𝐏𝐏𝐎𝐑𝐓", url="https://t.me/ALIEN_X_SUPPORT"),
-            InlineKeyboardButton("🔔 𝐔𝐏𝐃𝐀𝐓𝚵", url="https://t.me/ALIEN_X_UPDATE")
+            InlineKeyboardButton("🚩𝐒𝐔𝐏𝐏𝐎𝐑𝐓", url="https://t.me/bromusic1303"),
+            InlineKeyboardButton("🔔 𝐔𝐏𝐃𝐀𝐓𝚵", url="https://t.me/winmusicupdates")
         ],
         [
-            InlineKeyboardButton("𝐆𝐈𝐕𝐄 𝐌𝐄 𝐇𝚵𝐀𝐑𝐓 ❤️", url="https://t.me/ABOUT_MUKUND/15")
+            InlineKeyboardButton("𝐆𝐈𝐕𝐄 𝐌𝐄 𝐇𝚵𝐀𝐑𝐓 ❤️", url="https://t.me/WinterSoIdierX25/2")
         ]
     ]
 )
